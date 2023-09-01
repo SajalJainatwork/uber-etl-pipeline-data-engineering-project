@@ -15,6 +15,7 @@ The goal of this project is to perform data analytics on Uber data using various
 ✅ SQL queries for analysis
 
 ## Architecture 
+![uber architecture](https://github.com/SajalJainatwork/uber-etl-pipeline-data-engineering-project/assets/106689439/4e7af070-b278-4744-923c-d3ab7785e47e)
 <img src="architecture.jpg">
 
 ## Technology Used
