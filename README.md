@@ -23,9 +23,13 @@ I created an ETL pipeline using the open-source data pipeline tool called Mage. 
 ✅Programming Language - Python
 
 Google Cloud Platform
+
 ➡️Google Storage
+
 ➡️Compute Instance 
+
 ➡️BigQuery
+
 ➡️Looker Studio
 
 Mage - Data Pipeline Tool
