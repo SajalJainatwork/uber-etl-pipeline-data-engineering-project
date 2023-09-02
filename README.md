@@ -20,13 +20,13 @@ I created an ETL pipeline using the open-source data pipeline tool called Mage. 
 ![uber architecture](https://github.com/SajalJainatwork/uber-etl-pipeline-data-engineering-project/assets/106689439/4e7af070-b278-4744-923c-d3ab7785e47e)
 
 ## Technology Used
-- Programming Language - Python
+✅Programming Language - Python
 
 Google Cloud Platform
-1. Google Storage
-2. Compute Instance 
-3. BigQuery
-4. Looker Studio
+➡️Google Storage
+➡️Compute Instance 
+➡️BigQuery
+➡️Looker Studio
 
 Mage - Data Pipeline Tool
 (Mage is an open-source data pipeline tool for transforming and integrating data.)
