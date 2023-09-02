@@ -50,6 +50,9 @@ More info about dataset can be found here:
 ![uber model](https://github.com/SajalJainatwork/uber-etl-pipeline-data-engineering-project/assets/106689439/2d855d8b-598a-4dd7-aac1-90e0a7da935e)
 ![uber orginal data model](https://github.com/SajalJainatwork/uber-etl-pipeline-data-engineering-project/assets/106689439/9785b1b5-5b79-4877-8337-9b1fc0b95fe9)
 
+##Dashboard
+![uber dashboard](https://github.com/SajalJainatwork/uber-etl-pipeline-data-engineering-project/assets/106689439/14f6485c-778f-4b06-b155-f217ed649f06)
+
 
 ## ETL Pipeline - Mage
 ![ETL Pipeline - Mage](https://github.com/SajalJainatwork/uber-etl-pipeline-data-engineering-project/assets/106689439/dcbe9918-a0e7-44e4-b8e3-09affcb15029)
