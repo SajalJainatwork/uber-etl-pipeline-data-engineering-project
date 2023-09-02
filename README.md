@@ -44,7 +44,9 @@ More info about dataset can be found here:
 ## Data Model
 ![uber data model](https://github.com/SajalJainatwork/uber-etl-pipeline-data-engineering-project/assets/106689439/10338af7-60a5-433f-aa07-921b60b64d13)
 
-## ETL Pipeline Mage
+## ETL Pipeline - Mage
+![ETL Pipeline - Mage](https://github.com/SajalJainatwork/uber-etl-pipeline-data-engineering-project/assets/106689439/dcbe9918-a0e7-44e4-b8e3-09affcb15029)
+
 
 
 
