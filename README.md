@@ -3,6 +3,7 @@
 ## Introduction
 
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
+
 Created an ETL pipeline using the open-source data pipeline tool called Mage. The pipeline is designed to process the etl job for data stored in a GCP Bucket. Then, used the Google Cloud Storage (GCS) to store the raw data, Compute Engine (VM/SSH Instance) to run Mage, and BigQuery to store the transformed data for analysis. Finally, utilized Looker Studio to create an interactive dashboard for data visualization and insights.
 
 ✅ How to understand raw data
