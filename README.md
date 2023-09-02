@@ -14,7 +14,7 @@ The goal of this project is to perform data analytics on Uber data using various
 
 ✅ SQL queries for analysis
 
-Created an ETL pipeline using the open-source data pipeline tool called Mage. The pipeline is designed to process the etl job for data stored in a GCP Bucket. Then, used the Google Cloud Storage (GCS) to store the raw data, Compute Engine (VM/SSH Instance) to run Mage, and BigQuery to store the transformed data for analysis. Finally, utilized Looker Studio to create an interactive dashboard for data visualization and insights.
+I created an ETL pipeline using the open-source data pipeline tool called Mage. The pipeline is designed to process the ETL job for data stored in a GCP Bucket. Then, I used Google Cloud Storage (GCS) to store the raw data, Compute Engine (VM/SSH Instance) to run Mage, and Big Query to store the transformed data for analysis. Finally, utilized Looker Studio to create an interactive dashboard for data visualization and insights.
 
 ## Architecture 
 ![uber architecture](https://github.com/SajalJainatwork/uber-etl-pipeline-data-engineering-project/assets/106689439/4e7af070-b278-4744-923c-d3ab7785e47e)
