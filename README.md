@@ -28,6 +28,9 @@ Google Cloud Platform
 3. BigQuery
 4. Looker Studio
 
+Mage - Data Pipeline Tool
+(Mage is an open-source data pipeline tool for transforming and integrating data.)
+
 Modern Data Pipeine Tool - https://www.mage.ai/
 
 Contibute to this open source project - https://github.com/mage-ai/mage-ai
