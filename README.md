@@ -15,7 +15,6 @@ The goal of this project is to perform data analytics on Uber data using various
 ✅ SQL queries for analysis
 
 ## Architecture 
-![uber model](https://github.com/SajalJainatwork/uber-etl-pipeline-data-engineering-project/assets/106689439/2d855d8b-598a-4dd7-aac1-90e0a7da935e)
 ![uber architecture](https://github.com/SajalJainatwork/uber-etl-pipeline-data-engineering-project/assets/106689439/4e7af070-b278-4744-923c-d3ab7785e47e)
 
 ## Technology Used
@@ -43,6 +42,7 @@ More info about dataset can be found here:
 2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Model
+![uber model](https://github.com/SajalJainatwork/uber-etl-pipeline-data-engineering-project/assets/106689439/2d855d8b-598a-4dd7-aac1-90e0a7da935e)
 ![uber data model](https://github.com/SajalJainatwork/uber-etl-pipeline-data-engineering-project/assets/106689439/10338af7-60a5-433f-aa07-921b60b64d13)
 
 ## ETL Pipeline - Mage
