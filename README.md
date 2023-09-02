@@ -53,7 +53,8 @@ More info about dataset can be found here:
 ## ETL Pipeline - Mage
 ![ETL Pipeline - Mage](https://github.com/SajalJainatwork/uber-etl-pipeline-data-engineering-project/assets/106689439/dcbe9918-a0e7-44e4-b8e3-09affcb15029)
 
-##Dashboard
+
+## Dashboard
 ![uber dashboard](https://github.com/SajalJainatwork/uber-etl-pipeline-data-engineering-project/assets/106689439/14f6485c-778f-4b06-b155-f217ed649f06)
 
 
